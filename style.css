@@ -10,9 +10,9 @@ scroll-behavior: smooth;
 }
 
 :root{
-    --text-color: #f1ebeb;
-    --bg-color: #f3a16b;
-    --second-bg-color: #3cd449;
+    --text-color: #0a0101;
+    --bg-color:#d369b0;
+    --second-bg-color: #66e070;
     --main-color:#081696;
     --other-color:#e3e7ec;
 
